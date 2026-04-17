@@ -5,7 +5,8 @@
 </div>
 
 #
-Software Engineer Student!
+Software Engineer Student - Unicesumar.
+RA: 25363796-2
 #
 
 <img align="right" alt="" height="190px" border-radious="10px" src="./src/study.gif">
