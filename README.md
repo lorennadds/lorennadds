@@ -9,8 +9,6 @@ Software Engineer Student ~ Unicesumar
 #
 
 <img align="right" alt="" height="190px" border-radious="10px" src="./src/study.gif">
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lorenadeoliveiradias7@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/lorennadds?igsh=ZzV5bHliY3RvMmxl&utm_source=qr)
 
 
